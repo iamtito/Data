@@ -1,0 +1,7 @@
+Before proceeding to logstash install, follow the below
+
+First update your system
+sudo apt-get update
+
+Then install logstash
+sudo apt-get install logstash
