@@ -1,0 +1,7 @@
+To dowload Elasticsearch, follwo the below dd
+
+Go to https://www.elastic.co/downloads/elasticsearch and download the lastest version of Elasticsearch
+You should see several options [ZIP | TAR | DEB | RPM |...]
+
+once downloaded, unzip the file and run the below comman
+On Linux Run bin/elasticsearch (or bin\elasticsearch.bat on Windows)d
