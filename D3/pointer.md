@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <!--
-Author: Bolatito Kabir
+Author:  Bolatito Kabir
 Description: Colorful circles are generated along mouse paths, The current time is displayed in the background
 -->
 
